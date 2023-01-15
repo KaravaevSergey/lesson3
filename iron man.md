@@ -38,4 +38,4 @@ git commit
 
 2. Ветка Halk
 
-3. Ветка Avengers
+3. Ветка Tanos
